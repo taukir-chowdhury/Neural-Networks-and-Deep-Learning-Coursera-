@@ -4,4 +4,6 @@ All the contents(slides and assignments are uploaded here)
 
 Also added my personal notes for clarification
 
+Contents: 
+
 Week 02: Logistic Regression as Neural Network
